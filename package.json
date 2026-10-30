@@ -1,5 +1,6 @@
 {
   "name": "seat-planner",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "packageManager": "pnpm@12.16.1",

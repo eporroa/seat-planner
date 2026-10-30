@@ -164,3 +164,7 @@ up in the client bundle.
 - **Seed:** the starting tables come from `demo_seed_tables()` in the first migration, called by
   `supabase/seed.sql`; `src/shared/seed.ts` mirrors them for the tests.
 - **Copy:** the interface text is in Spanish (es-MX); search for it in `src/features/`.
+
+## License
+
+[MIT](LICENSE) © 2026 Erik Porroa. Use it, change it, share it.
