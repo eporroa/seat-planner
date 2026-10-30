@@ -1,0 +1,4 @@
+supabase
+.env*
+.next
+node_modules
